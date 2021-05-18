@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@firebase/util": "^0.2.20",
+    "@firebase/util": "^0.3.4",
     "firebase": "6.2.4",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
